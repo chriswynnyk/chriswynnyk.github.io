@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Publications 
-description: My work from the past few years
+description: Conference papers and such
 ---
-
-Here are a few of my past publications. 
 
 #### MITRE
 
