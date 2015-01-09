@@ -5,7 +5,7 @@ description: Catching up on the latest tech trends
 ---
 
 Every year, my office takes two full weeks off for the holidays. Which is sweet. It's usually about half a day before I'm back to reading [Hacker News](news.ycombinator.com) and exploring random projects on [Github](www.github.com). 
-This year, I set aside some time to learn some new tools.  You should too.
+This year, I set aside some time to learn some new tools.
 
 ![SF sign](/img/sf_sign.jpg)
 
@@ -19,7 +19,7 @@ It's a new year, so why not. I've switched to _tmux_. Here's a [tmux cheatsheet]
 
 ### My development environment
 
-I'm currently doing a rotation on a software development team, which has prompted me to take a second look at tools of the trade. Normally, my typical development work would involve editing files on a client system where _vi_ was the common denominator (and best available editor). It's refreshing to be back working on my own computer, where I can install anything I want.
+I'm currently doing a rotation on a software development team, which has prompted me to take a second look at tools of the trade. Normally, my typical development work would involve editing files on a client system where _vi_ was the common denominator (and best available editor). It's refreshing to be back working on my own computer where I can install anything I want.
 
 Here were the contenders: 
 
@@ -41,15 +41,15 @@ For me, IntelliJ's auto-complete and refactoring were game changers. ZeroTurnaro
 
 #### Atom
 
-This one is an "almost-there". The concept is awesome, with some really nice potential for in-editor rendering and evaluation of web projects. The startup time seems to be noticably slower as compared to other text editors, and I also seem to get sporadic lag when typing (which is a show-stopper for me). Things seem to have come along since my last experiments with Atom, so I may check back in on this one in another year.
+This one is an "almost-there". The concept is awesome, with some really nice potential for in-editor rendering and evaluation of web projects. The startup time seems to be noticeably slower as compared to other text editors, and I also seem to get sporadic lag when typing (which is a show-stopper for me). Things seem to have come along since my last experiments with Atom, so I may check back in on this one in another year.
 
 #### Sublime Text 3
 
-Awesome text editor. Super-fast startup time, nice plugin ecosystem, and just works. This is my primary IDE for anything web.
+Well-polished text editor. Super-fast startup time, nice plugin ecosystem, and just works. This is my primary IDE for anything web.
 
 #### Vi
 
-This will remain my swiss army knife for client-side work and editting configuration files, but otherwise I'm putting vi out to pasture.
+This will remain my swiss army knife for client-side work and editing configuration files, but otherwise I'm putting _vi_ out to pasture.
 
 ### The winners
 
