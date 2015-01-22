@@ -8,3 +8,8 @@ exclude: ["Gemfile", "Gemfile.lock", "README.md"] # files to exclude
 url: http://www.wynnyk.com
 permalink: /:title/
 markdown: rdiscount
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
