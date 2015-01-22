@@ -6,6 +6,8 @@ description: Conference papers and such
 
 #### MITRE
 
+[2011 Trajectory Based Operations Flight Trials (2013)](/assets/TrajectoryBasedOperations.pdf) evaluates the operational concept of meeting metering times into the terminal area using the Required Time-of-Arrival (RTA) function available in modern Flight Management Systems (FMSs). 
+
 [Wind Analysis in Aviation Applications (2012)](/assets/WindAnalysisInAviationApplications.pdf) identifies techniques for wind analysis, including interpolation methods and patterns for distributed computation.
 
 #### Rensselaer Polytechnic Institute
