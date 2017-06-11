@@ -9,4 +9,5 @@ gem 'nokogiri'
    gem "jekyll-redirect-from"
    gem "jekyll-sitemap"
    gem "rdiscount"
+   gem "jemoji"
  end
