@@ -5,7 +5,6 @@ paginate: 1000 # pagination basted on number of posts
 exclude: ["Gemfile", "Gemfile.lock", "README.md"] # files to exclude
 url: http://www.wynnyk.com
 permalink: /:title/
-markdown: rdiscount
 gems:
 - jekyll-mentions
 - jemoji
